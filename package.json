@@ -18,7 +18,7 @@
     "dependencies": {
         "css-loader": "^3.5.3",
         "csv-loader": "^3.0.3",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "style-loader": "^1.2.1",
         "xml-loader": "^1.2.1"
     }
